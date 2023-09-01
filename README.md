@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Leonel+Clavijo" alt="Typing SVG" /></a></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1141F7&width=435&lines=A+passionate+developer+from+Panguipulli%2C+Chile" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1141F7&width=435&lines=A+passionate+developer+from;Panguipulli+-+Chile" alt="Typing SVG" /></a></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lclaco&label=Profile%20views&color=0e75b6&style=flat" alt="lclaco" /> </p>
 
