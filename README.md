@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lclaco&label=Profile%20views&color=0e75b6&style=flat" alt="lclaco" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lclaco" alt="lclaco" /></a> </p>
-<div align="center">
 - 🔭 I’m currently working on [INFOSEG Clavijo](https://infosegclavijo.cl/)
 
 - 🌱 I’m currently learning **Ruby on Rails, Análisis de Datos**
@@ -12,8 +10,10 @@
 - 👨‍💻 All of my projects are available at [github.com/lclaco](github.com/lclaco)
 
 - 📫 How to reach me **leonelclavijo@gmail.com**
-</div>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="center">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/leonelclavijocolil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonelclavijocolil" height="30" width="40" /></a>
 <a href="https://www.behance.net/leonelclavijo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="leonelclavijo" height="30" width="40" /></a>
