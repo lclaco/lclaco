@@ -1,10 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Leonel+Clavijo" alt="Typing SVG" /></a></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1141F7&width=435&lines=A+passionate+developer+from+Panguipulli%2C+Chile" alt="Typing SVG" /></a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lclaco&label=Profile%20views&color=0e75b6&style=flat" alt="lclaco" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lclaco&label=Profile%20views&color=0e75b6&style=flat" alt="lclaco" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lclaco" alt="lclaco" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lclaco" alt="lclaco" /></a> </p>
+<div align="center">
 - 🔭 I’m currently working on [INFOSEG Clavijo](https://infosegclavijo.cl/)
 
 - 🌱 I’m currently learning **Ruby on Rails, Análisis de Datos**
@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [github.com/lclaco](github.com/lclaco)
 
 - 📫 How to reach me **leonelclavijo@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonelclavijocolil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonelclavijocolil" height="30" width="40" /></a>
